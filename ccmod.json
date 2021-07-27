@@ -1,0 +1,8 @@
+{
+    "id": "Named Saves",
+	"version": "1.0.0",
+	"description": {
+		"en_US": "Lets you rename save slots."
+	},
+	"prestart": "prestart.js"
+}

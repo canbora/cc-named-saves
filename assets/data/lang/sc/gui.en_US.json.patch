@@ -1,0 +1,37 @@
+[{
+    "type": "ENTER",
+    "index": ["labels", "menu", "hotkeys"]
+}, {
+    "type": "SET_KEY",
+    "index": "renameSlot",
+    "content": "Rename"
+}, {
+    "type": "EXIT",
+    "count": 1
+}, {
+    "type": "ENTER",
+    "index": ["save-menu"]
+}, {
+    "type": "SET_KEY",
+    "index": "rename-info-title",
+    "content": "\\c[3]Renaming Save Files\\c[0]"
+}, {
+    "type": "SET_KEY",
+    "index": "rename-info-content-save",
+    "content": "Hover over a slot, press \\i[help4] and enter the new save name in the pop-up to rename the slot. You can also close the pop-up without submitting to retain the former save name, or submit empty text to revert the save name to the original number."
+}, {
+    "type": "SET_KEY",
+    "index": "rename-info-content-load",
+    "content": "Hover over a slot, press \\i[help3] and enter the new save name in the pop-up to rename the slot. You can also close the pop-up without submitting to retain the former save name, or submit empty text to revert the save name to the original number."
+}, {
+    "type": "SET_KEY",
+    "index": "rename-popup-title",
+    "content": "Enter new save name"
+}, {
+    "type": "SET_KEY",
+    "index": "rename-popup-submit",
+    "content": "Submit"
+}, {
+    "type": "EXIT",
+    "count": 3
+}]
